@@ -1,0 +1,20 @@
+func test() {
+}
+
+func test2(){
+}
+
+func test() {
+	func tddd() {
+	}
+}
+
+func test1() {
+	func test2() {
+		func test3() {
+			func test4() {
+			}
+		}
+	}
+}
+
